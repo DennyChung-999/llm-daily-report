@@ -1,0 +1,636 @@
+{
+  "meta": {
+    "snapshot_date": "2026-07-10",
+    "report_date": "2026-07-14",
+    "total_votes": 7274904,
+    "total_models": 374,
+    "recipient": "Denny Chung"
+  },
+  "all_llm_top30": [
+    {
+      "rank": 1,
+      "model": "claude-fable-5",
+      "dev": "Anthropic",
+      "score": 1505
+    },
+    {
+      "rank": 2,
+      "model": "claude-opus-4-6-thinking",
+      "dev": "Anthropic",
+      "score": 1504
+    },
+    {
+      "rank": 3,
+      "model": "claude-opus-4-7-thinking",
+      "dev": "Anthropic",
+      "score": 1503
+    },
+    {
+      "rank": 4,
+      "model": "claude-opus-4-6",
+      "dev": "Anthropic",
+      "score": 1498
+    },
+    {
+      "rank": 5,
+      "model": "claude-opus-4-7",
+      "dev": "Anthropic",
+      "score": 1494
+    },
+    {
+      "rank": 6,
+      "model": "muse-spark-1.1",
+      "dev": "Meta",
+      "score": 1490
+    },
+    {
+      "rank": 7,
+      "model": "muse-spark",
+      "dev": "Meta",
+      "score": 1488
+    },
+    {
+      "rank": 8,
+      "model": "gpt-5.6-sol-xhigh",
+      "dev": "OpenAI",
+      "score": 1486
+    },
+    {
+      "rank": 9,
+      "model": "gemini-3-pro",
+      "dev": "Google",
+      "score": 1486
+    },
+    {
+      "rank": 10,
+      "model": "gemini-3.1-pro-preview",
+      "dev": "Google",
+      "score": 1485
+    },
+    {
+      "rank": 11,
+      "model": "claude-opus-4-8-thinking",
+      "dev": "Anthropic",
+      "score": 1482
+    },
+    {
+      "rank": 12,
+      "model": "gpt-5.5-high",
+      "dev": "OpenAI",
+      "score": 1481
+    },
+    {
+      "rank": 13,
+      "model": "gpt-5.4-high",
+      "dev": "OpenAI",
+      "score": 1476
+    },
+    {
+      "rank": 14,
+      "model": "gemini-3.5-flash-high",
+      "dev": "Google",
+      "score": 1476
+    },
+    {
+      "rank": 15,
+      "model": "gemini-3.5-flash-medium",
+      "dev": "Google",
+      "score": 1476
+    },
+    {
+      "rank": 16,
+      "model": "gpt-5.2-chat-latest-20260210",
+      "dev": "OpenAI",
+      "score": 1476
+    },
+    {
+      "rank": 17,
+      "model": "qwen3.7-max-preview",
+      "dev": "Alibaba",
+      "score": 1475
+    },
+    {
+      "rank": 18,
+      "model": "claude-opus-4-8",
+      "dev": "Anthropic",
+      "score": 1475
+    },
+    {
+      "rank": 19,
+      "model": "grok-4.20-beta1",
+      "dev": "xAI",
+      "score": 1475
+    },
+    {
+      "rank": 20,
+      "model": "gpt-5.5",
+      "dev": "OpenAI",
+      "score": 1474
+    },
+    {
+      "rank": 21,
+      "model": "grok-4.20-beta-0309-reasoning",
+      "dev": "xAI",
+      "score": 1474
+    },
+    {
+      "rank": 22,
+      "model": "gemini-3-flash",
+      "dev": "Google",
+      "score": 1473
+    },
+    {
+      "rank": 23,
+      "model": "gpt-5.5-instant",
+      "dev": "OpenAI",
+      "score": 1473
+    },
+    {
+      "rank": 24,
+      "model": "claude-opus-4-5-20251101-thinking-32k",
+      "dev": "Anthropic",
+      "score": 1473
+    },
+    {
+      "rank": 25,
+      "model": "glm-5.1",
+      "dev": "Z.ai",
+      "score": 1472
+    },
+    {
+      "rank": 26,
+      "model": "claude-sonnet-4-6",
+      "dev": "Anthropic",
+      "score": 1472
+    },
+    {
+      "rank": 27,
+      "model": "grok-4.20-multi-agent-beta-0309",
+      "dev": "xAI",
+      "score": 1471
+    },
+    {
+      "rank": 28,
+      "model": "claude-opus-4-5-20251101",
+      "dev": "Anthropic",
+      "score": 1469
+    },
+    {
+      "rank": 29,
+      "model": "grok-4.5",
+      "dev": "xAI",
+      "score": 1469
+    },
+    {
+      "rank": 30,
+      "model": "ernie-5.1",
+      "dev": "Baidu",
+      "score": 1468
+    }
+  ],
+  "moe_top30": [
+    {
+      "rank": 1,
+      "model": "glm-5.1",
+      "dev": "Z.ai",
+      "score": 1472
+    },
+    {
+      "rank": 2,
+      "model": "mimo-v2.5-pro",
+      "dev": "Xiaomi",
+      "score": 1466
+    },
+    {
+      "rank": 3,
+      "model": "glm-5.2 (max)",
+      "dev": "Z.ai",
+      "score": 1465
+    },
+    {
+      "rank": 4,
+      "model": "kimi-k2.6",
+      "dev": "Moonshot",
+      "score": 1462
+    },
+    {
+      "rank": 5,
+      "model": "deepseek-v4-pro-thinking",
+      "dev": "DeepSeek",
+      "score": 1457
+    },
+    {
+      "rank": 6,
+      "model": "glm-5",
+      "dev": "Z.ai",
+      "score": 1457
+    },
+    {
+      "rank": 7,
+      "model": "deepseek-v4-pro",
+      "dev": "DeepSeek",
+      "score": 1456
+    },
+    {
+      "rank": 8,
+      "model": "kimi-k2.5-thinking",
+      "dev": "Moonshot",
+      "score": 1449
+    },
+    {
+      "rank": 9,
+      "model": "minimax-m3",
+      "dev": "MiniMax",
+      "score": 1445
+    },
+    {
+      "rank": 10,
+      "model": "glm-4.7",
+      "dev": "Z.ai",
+      "score": 1443
+    },
+    {
+      "rank": 11,
+      "model": "qwen3.5-397b-a17b",
+      "dev": "Alibaba",
+      "score": 1442
+    },
+    {
+      "rank": 12,
+      "model": "deepseek-v4-flash-thinking",
+      "dev": "DeepSeek",
+      "score": 1439
+    },
+    {
+      "rank": 13,
+      "model": "gemma-4-26b-a4b",
+      "dev": "Google",
+      "score": 1438
+    },
+    {
+      "rank": 14,
+      "model": "deepseek-v4-flash",
+      "dev": "DeepSeek",
+      "score": 1437
+    },
+    {
+      "rank": 15,
+      "model": "mimo-v2.5",
+      "dev": "Xiaomi",
+      "score": 1434
+    },
+    {
+      "rank": 16,
+      "model": "kimi-k2.5-instant",
+      "dev": "Moonshot",
+      "score": 1432
+    },
+    {
+      "rank": 17,
+      "model": "kimi-k2-thinking-turbo",
+      "dev": "Moonshot",
+      "score": 1430
+    },
+    {
+      "rank": 18,
+      "model": "glm-4.6",
+      "dev": "Z.ai",
+      "score": 1425
+    },
+    {
+      "rank": 19,
+      "model": "deepseek-v3.2",
+      "dev": "DeepSeek",
+      "score": 1425
+    },
+    {
+      "rank": 20,
+      "model": "deepseek-v3.2-exp-thinking",
+      "dev": "DeepSeek",
+      "score": 1425
+    },
+    {
+      "rank": 21,
+      "model": "qwen3-235b-a22b-instruct-2507",
+      "dev": "Alibaba",
+      "score": 1423
+    },
+    {
+      "rank": 22,
+      "model": "nvidia-nemotron-3-ultra-550b-a55b-nvfp4",
+      "dev": "Nvidia",
+      "score": 1423
+    },
+    {
+      "rank": 23,
+      "model": "deepseek-v3.2-thinking",
+      "dev": "DeepSeek",
+      "score": 1423
+    },
+    {
+      "rank": 24,
+      "model": "deepseek-v3.2-exp",
+      "dev": "DeepSeek",
+      "score": 1423
+    },
+    {
+      "rank": 25,
+      "model": "deepseek-r1-0528",
+      "dev": "DeepSeek",
+      "score": 1422
+    },
+    {
+      "rank": 26,
+      "model": "kimi-k2-0905-preview",
+      "dev": "Moonshot",
+      "score": 1418
+    },
+    {
+      "rank": 27,
+      "model": "deepseek-v3.1-terminus-thinking",
+      "dev": "DeepSeek",
+      "score": 1418
+    },
+    {
+      "rank": 28,
+      "model": "deepseek-v3.1",
+      "dev": "DeepSeek",
+      "score": 1418
+    },
+    {
+      "rank": 29,
+      "model": "kimi-k2-0711-preview",
+      "dev": "Moonshot",
+      "score": 1418
+    },
+    {
+      "rank": 30,
+      "model": "qwen3.5-122b-a10b",
+      "dev": "Alibaba",
+      "score": 1417
+    }
+  ],
+  "moe_m4max": [
+    {
+      "rank": 1,
+      "model": "glm-5.1",
+      "score": 1472,
+      "params": "744B/40B",
+      "grade": "D",
+      "note": "willitrunai/公開資料估算Q4量化約430GB,遠超128GB,只能用API"
+    },
+    {
+      "rank": 2,
+      "model": "mimo-v2.5-pro",
+      "score": 1466,
+      "params": "1.02T/42B",
+      "grade": "D",
+      "note": "總參數逾1T,Q4估算約590GB,只能用API"
+    },
+    {
+      "rank": 3,
+      "model": "glm-5.2 (max)",
+      "score": 1465,
+      "params": "753B/40B",
+      "grade": "D",
+      "note": "與GLM-5.1同代架構,Q4估算約435GB,只能用API"
+    },
+    {
+      "rank": 4,
+      "model": "kimi-k2.6",
+      "score": 1462,
+      "params": "1T/32B",
+      "grade": "D",
+      "note": "willitrunai實測Q4_K_M約620GB,遠超128GB上限"
+    },
+    {
+      "rank": 5,
+      "model": "deepseek-v4-pro-thinking",
+      "score": 1457,
+      "params": "1.6T/49B",
+      "grade": "D",
+      "note": "與deepseek-v4-pro同底座,willitrunai實測約517GB"
+    },
+    {
+      "rank": 6,
+      "model": "glm-5",
+      "score": 1457,
+      "params": "745B/44B",
+      "grade": "D",
+      "note": "Q4估算約431GB,只能用API"
+    },
+    {
+      "rank": 7,
+      "model": "deepseek-v4-pro",
+      "score": 1456,
+      "params": "1.6T/49B",
+      "grade": "D",
+      "note": "willitrunai實測Q4_K_M約517GB,即使量化仍需多卡伺服器等級記憶體"
+    },
+    {
+      "rank": 8,
+      "model": "kimi-k2.5-thinking",
+      "score": 1449,
+      "params": "1T/32B",
+      "grade": "D",
+      "note": "與Kimi K2.6同規模架構,估計約620GB"
+    },
+    {
+      "rank": 9,
+      "model": "minimax-m3",
+      "score": 1445,
+      "params": "428B/22-23B",
+      "grade": "D",
+      "note": "willitrunai/社群實測Q4約220-265GB,啟用參數雖僅22B,但推論仍須載入全部專家權重"
+    },
+    {
+      "rank": 10,
+      "model": "glm-4.7",
+      "score": 1443,
+      "params": "355B/32B",
+      "grade": "D",
+      "note": "公開資料顯示完整模型部署建議205GB+統一記憶體,遠超128GB"
+    },
+    {
+      "rank": 11,
+      "model": "qwen3.5-397b-a17b",
+      "score": 1442,
+      "params": "397B/17B",
+      "grade": "D",
+      "note": "總參數397B,Q4估算約230GB,常被誤認「啟用參數僅17B應該能跑」,實際上仍要裝下全部397B專家權重"
+    },
+    {
+      "rank": 12,
+      "model": "deepseek-v4-flash-thinking",
+      "score": 1439,
+      "params": "284B/13B",
+      "grade": "D",
+      "note": "與deepseek-v4-flash同底座,willitrunai實測約180GB,「Flash」之名容易誤導成輕量可本機執行"
+    },
+    {
+      "rank": 13,
+      "model": "gemma-4-26b-a4b",
+      "score": 1438,
+      "params": "26B/4B",
+      "grade": "A",
+      "note": "willitrunai實測Q4_K_M僅需約21GB,啟用參數4B、總參數亦小,36GB內即可流暢運行,是今日唯一A級模型"
+    },
+    {
+      "rank": 14,
+      "model": "deepseek-v4-flash",
+      "score": 1437,
+      "params": "284B/13B",
+      "grade": "D",
+      "note": "willitrunai實測Q4_K_M約180GB,超過128GB上限"
+    },
+    {
+      "rank": 15,
+      "model": "mimo-v2.5",
+      "score": 1434,
+      "params": "310B/15B",
+      "grade": "D",
+      "note": "公開資料估算Q4約180GB,超過128GB"
+    },
+    {
+      "rank": 16,
+      "model": "kimi-k2.5-instant",
+      "score": 1432,
+      "params": "1T/32B",
+      "grade": "D",
+      "note": "與Kimi K2家族同規模,估計約620GB"
+    },
+    {
+      "rank": 17,
+      "model": "kimi-k2-thinking-turbo",
+      "score": 1430,
+      "params": "1T/32B",
+      "grade": "D",
+      "note": "與Kimi K2家族同規模,估計約620GB"
+    },
+    {
+      "rank": 18,
+      "model": "glm-4.6",
+      "score": 1425,
+      "params": "357B/32B",
+      "grade": "D",
+      "note": "公開資料顯示完整部署建議205GB+統一記憶體,遠超128GB"
+    },
+    {
+      "rank": 19,
+      "model": "deepseek-v3.2",
+      "score": 1425,
+      "params": "685B/37B",
+      "grade": "D",
+      "note": "公開資料估算INT8需380GB,Q4推估仍需350-400GB"
+    },
+    {
+      "rank": 20,
+      "model": "deepseek-v3.2-exp-thinking",
+      "score": 1425,
+      "params": "685B/37B",
+      "grade": "D",
+      "note": "與deepseek-v3.2同底座,估算約350-400GB"
+    },
+    {
+      "rank": 21,
+      "model": "qwen3-235b-a22b-instruct-2507",
+      "score": 1423,
+      "params": "235B/22B",
+      "grade": "D",
+      "note": "★常見誤解代表:willitrunai實測Q4約132GB,僅略超128GB上限,常被誤以為128GB機型裝得下,實際仍裝不下,需更激進量化才勉強塞入且會犧牲品質"
+    },
+    {
+      "rank": 22,
+      "model": "nvidia-nemotron-3-ultra-550b-a55b-nvfp4",
+      "score": 1423,
+      "params": "550B/55B",
+      "grade": "D",
+      "note": "雖已採NVFP4(4bit)原生量化格式,550B總參數仍估算需約290GB,遠超128GB"
+    },
+    {
+      "rank": 23,
+      "model": "deepseek-v3.2-thinking",
+      "score": 1423,
+      "params": "685B/37B",
+      "grade": "D",
+      "note": "與deepseek-v3.2同底座,估算約350-400GB"
+    },
+    {
+      "rank": 24,
+      "model": "deepseek-v3.2-exp",
+      "score": 1423,
+      "params": "685B/37B",
+      "grade": "D",
+      "note": "與deepseek-v3.2同底座,估算約350-400GB"
+    },
+    {
+      "rank": 25,
+      "model": "deepseek-r1-0528",
+      "score": 1422,
+      "params": "671B/37B",
+      "grade": "D",
+      "note": "公開資料估算Q4約400-404GB,遠超128GB"
+    },
+    {
+      "rank": 26,
+      "model": "kimi-k2-0905-preview",
+      "score": 1418,
+      "params": "1T/32B",
+      "grade": "D",
+      "note": "Kimi K2舊版預覽,與K2家族同規模,估計約620GB"
+    },
+    {
+      "rank": 27,
+      "model": "deepseek-v3.1-terminus-thinking",
+      "score": 1418,
+      "params": "671B/37B",
+      "grade": "D",
+      "note": "與DeepSeek V3.1同底座,估算約400GB"
+    },
+    {
+      "rank": 28,
+      "model": "deepseek-v3.1",
+      "score": 1418,
+      "params": "671B/37B",
+      "grade": "D",
+      "note": "估算Q4約400GB,遠超128GB"
+    },
+    {
+      "rank": 29,
+      "model": "kimi-k2-0711-preview",
+      "score": 1418,
+      "params": "1T/32B",
+      "grade": "D",
+      "note": "Kimi K2初版,與K2家族同規模,估計約620GB"
+    },
+    {
+      "rank": 30,
+      "model": "qwen3.5-122b-a10b",
+      "score": 1417,
+      "params": "122B/10B",
+      "grade": "C",
+      "note": "willitrunai實測Q4_K_M約74-78GB,128GB統一記憶體內可跑,是Top30中除gemma-4-26b-a4b外唯一能塞入128GB的模型,但仍偏向中高階配置"
+    }
+  ],
+  "conclusion": {
+    "daily_pick": {
+      "model": "gemma-4-26b-a4b",
+      "score": 1438,
+      "grade": "A",
+      "note": "今日Top30開源MoE中唯一A級模型,willitrunai實測僅需約21GB,速度快、隨開即用,為日常本機首選"
+    },
+    "quality_pick": {
+      "model": "qwen3.5-122b-a10b",
+      "score": 1417,
+      "grade": "C",
+      "note": "128GB機型上能塞入(約74-78GB)的模型中總參數規模最大(122B),雖Arena分數略低於gemma-4-26b-a4b,但推理容量更大,適合追求品質的本機使用場景"
+    },
+    "flagship_notes_count": "28/30",
+    "flagship_notes": [
+      "Qwen3-235B-A22B-Instruct-2507:常被誤認128GB機型裝得下,willitrunai實測Q4量化約132GB,實際上仍超出128GB上限",
+      "DeepSeek V4 Flash(284B總參數):模型名稱帶「Flash」易被誤認為輕量可本機執行,willitrunai實測仍需約180GB",
+      "MiniMax M3(428B總參數/約22B啟用):啟用參數不大不代表模型檔案小,推論時仍需把全部專家權重載入記憶體,Q4量化仍需220-265GB"
+    ]
+  },
+  "compare_prev_day": "Arena榜單快照與昨日(2026-07-13報告)完全相同,仍為2026-07-10版本(累積票數7,274,904、上架模型374款皆未變動),故Top30 Overall、Top30開源MoE、M4 Max分級與結論均無升降榜變化。已重新抓取並逐筆核對排名1-135確認無誤,非沿用推測。"
+}
